@@ -1,0 +1,2 @@
+[ERROR][2015-10-23 20:02:39.061998][/Users/apollo/go_proj/src/github.com/cz-it/aliyun-oss-golang-sdk/ossapi/request.go:73]:httpClient.Do(req.httpReq) Error:malformed HTTP status code "HTML"
+[ERROR][2015-10-23 20:02:39.062124][/Users/apollo/go_proj/src/github.com/cz-it/aliyun-oss-golang-sdk/ossapi/delete_bucket.go:22]:GetService's Send Error:malformed HTTP status code "HTML"

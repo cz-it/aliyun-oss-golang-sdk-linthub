@@ -1,0 +1,4 @@
+[DEBUG][2015-10-27 03:38:58.730614][/Users/apollo/go_proj/src/github.com/cz-it/aliyun-oss-golang-sdk/ossapi/log/log_test.go:21]:Debug:int a is 10
+[INFO][2015-10-27 03:38:58.730628][/Users/apollo/go_proj/src/github.com/cz-it/aliyun-oss-golang-sdk/ossapi/log/log_test.go:23]:Info
+[WARNING][2015-10-27 03:38:58.730632][/Users/apollo/go_proj/src/github.com/cz-it/aliyun-oss-golang-sdk/ossapi/log/log_test.go:25]:Warning
+[INFO][2015-10-27 03:38:58.730636][/Users/apollo/go_proj/src/github.com/cz-it/aliyun-oss-golang-sdk/ossapi/log/log_test.go:26]:<nil>
