@@ -1,2 +1,0 @@
-[ERROR][2015-10-26 13:00:28.563608][/Users/apollo/go_proj/src/github.com/cz-it/aliyun-oss-golang-sdk/ossapi/request.go:99]:xml.Unmarshal(body, rstErr) Error:XML syntax error on line 14: invalid characters between </StringToSi and >
-[ERROR][2015-10-26 13:00:28.563800][/Users/apollo/go_proj/src/github.com/cz-it/aliyun-oss-golang-sdk/ossapi/mupload/upload_part.go:42]:GetService's Send Error:XML syntax error on line 14: invalid characters between </StringToSi and >
