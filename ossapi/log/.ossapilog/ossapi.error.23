@@ -1,0 +1,3 @@
+[ERROR][2015-10-27 03:32:57.583344][/Users/apollo/go_proj/src/github.com/cz-it/aliyun-oss-golang-sdk/ossapi/log/log_test.go:20]:ErrorErrorError
+[FATAL][2015-10-27 03:32:57.583530][/Users/apollo/go_proj/src/github.com/cz-it/aliyun-oss-golang-sdk/ossapi/log/log_test.go:22]:fatal
+[FATAL][2015-10-27 03:32:57.583547][/Users/apollo/go_proj/src/github.com/cz-it/aliyun-oss-golang-sdk/ossapi/log/log_test.go:30]:fatal
